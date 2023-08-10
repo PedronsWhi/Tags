@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo de Lista de Itens</title>
+</head>
+<body>
+    <h1>Lista de Compras</h1>
+    <ul>
+        <li>Maçãs</li>
+        <li>Bananas</li>
+        <li>Laranjas</li>
+        <li>Uvas</li>
+    </ul>
+</body>
+</html>
+
+Neste código acima é usado a tag <ul> para criar uma lista não ordenada e <li> para cada item da lista 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo de Imagem</title>
+</head>
+<body>
+    <h1>Fotos de Viagem</h1>
+    <img src="foto-viagem.jpg" alt="Foto de uma paisagem incrível">
+</body>
+</html>
+
+Neste código acima é usado a tag <img> para incorporar uma imagem na tela e <alt> para uma descrição alternatica
+-------------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo de Vídeo</title>
+</head>
+<body>
+    <h1>Vídeo Tutorial</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/seu-ID-de-video" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
+
+Neste código, usamos a tag <iframe> para incorporar um vídeo do YouTube. O atributo src contém o URL do vídeo e outros atributos ajustam o tamanho e o comportamento do vídeo incorporado.
